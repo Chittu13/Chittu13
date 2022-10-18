@@ -1,8 +1,17 @@
+![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
 <h1 align="center">Hi 👋, I'm Shanmukha Srinivasulu Royal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
+
+- 🌱 I’m currently learning **Networking**
+
+- 💬 Ask me about **Android**
+
+- 📫 How to reach me **royalchittu@gmail.com**
+
+- ⚡ Fun fact **I am not Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
