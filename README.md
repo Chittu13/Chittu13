@@ -1,7 +1,7 @@
-![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
+![MasterHead](Pics/Home.gif)
 <h1 align="center">Hi 👋, I'm Shanmukha Srinivasulu Royal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
+<img align="right" alt="Coding" width="400" src="Pics/Profile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
 
