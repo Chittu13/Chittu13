@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/PowerShell.svg" width="48" height="48" alt="C#" />
+      <a href="(https://www.learnpython.org/)">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/python.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Powershell
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
