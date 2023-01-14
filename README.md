@@ -57,9 +57,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/python.svg" width="48" height="48" alt="JavaScript" />
+         <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/PowerShell.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>Python
+      <br>PowerShell
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -111,30 +111,10 @@
       </a>
       <br>MarkDown
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/photoshop.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>PhotoShop
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/adobe-illustrator.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Illustrator
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/premiere-pro.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Premiere-pro
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/after-effects.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>After-Effects
-    </td>
+   
+   
+
+
   </tr>
 </table>
 </div>
