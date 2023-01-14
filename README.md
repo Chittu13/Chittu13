@@ -14,6 +14,11 @@
 - ⚡ Fun fact **I am not Funny**
 
 
+<h4 align="center">
+  <a href="https://github.com/Chittu13?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+
 <p align="left">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chittu13&theme=elegant&border_radius=11.9)](https://git.io/streak-stats)
@@ -125,6 +130,4 @@
 
 
 
-<h4 align="center">
-  <a href="https://github.com/Chittu13?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+
