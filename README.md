@@ -26,7 +26,117 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-      <br>CPP
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/PowerShell.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/CMD.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>CMD
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/linux.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/kali-linux.svg" width="80" height="80" alt="Jsonnet" />
+      </a>
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/visual-studio.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/python.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/c%23.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/c%2B%2B.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/html5.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>HTML5
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/css3.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/javascript.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/git.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/github.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/markdown.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>MarkDown
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/photoshop.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>PhotoShop
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/adobe-illustrator.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/premiere-pro.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Premiere-pro
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/after-effects.svg" width="48" height="48" alt="Thanos" />
+      </a>
+      <br>After-Effects
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
