@@ -2,8 +2,24 @@
 <h1 align="center">Hi 👋, I'm Shanmukha Srinivasulu Royal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="Pics/Profile.gif">
+<br>
 
+
+
+<div align=center>
+<table>
+  <tr>
+    <td align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
+      </a>
+      <br>
+   
+  </tr>
+</table>
+</div>
+
+
+
 
 - 🌱 I’m currently learning **Networking**
 
@@ -14,15 +30,46 @@
 - ⚡ Fun fact **I am not Funny**
 
 
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter" title="Powershell-to-Ducky-Converter"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=I-Am-Jakoby&repo=Powershell-to-Ducky-Converter&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/I-Am-Jakoby/PowerShell-for-Hackers" title="Powershell for Hackers"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=I-Am-Jakoby&repo=PowerShell-for-Hackers&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/I-Am-Jakoby/hak5-submissions" title="Hak5 Submissions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=I-Am-Jakoby&repo=hak5-submissions&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB" title="Flipper Zero badUSB"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=I-Am-Jakoby&repo=Flipper-Zero-BadUSB&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/>
+
 <h4 align="center">
-  <a href="https://github.com/Chittu13?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/I-Am-Jakoby?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<br>
+
+<br/><br/>
+
+
+
 
 
 <p align="left">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chittu13&theme=elegant&border_radius=11.9)](https://git.io/streak-stats)
 </p>
+
+
 
 <h2 align="center">👨‍💻 Favorite Tech 👨‍💻</h2>
 
@@ -127,7 +174,9 @@
 
 
 
-
+<h4 align="center">
+  <a href="https://github.com/Chittu13?tab=repositories" title="Show Repositories">🔎 MyRepositories 🔍</a>
+</h4>
 
 
 
