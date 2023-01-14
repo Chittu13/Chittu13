@@ -21,7 +21,7 @@
 
 <h2 align="center">👨‍💻 Favorite Tech 👨‍💻</h2>
 
-<h2 align="center">💻Tools, languages, and other things that I like to work with💻</h2>
+<h2 align="center">💻Tools, languages, and other things that I Learing💻</h2>
 <div align=center>
 <table>
   <tr>
