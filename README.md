@@ -54,7 +54,7 @@
 <div align=center>
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <a href="(https://www.learnpython.org/)">
         <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/python.svg" width="48" height="48" alt="JavaScript" />
       </a>
@@ -68,7 +68,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/linux.svg" width="48" height="48" alt="Golang" />
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Bash
     </td>
@@ -90,12 +90,8 @@
       </a>
       <br>PowerShell
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/c%23.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>C#
-    </td>
+      </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/c%2B%2B.svg" width="48" height="48" alt="Bootstrap" />
@@ -108,19 +104,11 @@
       </a>
       <br>HTML5
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/css3.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/javascript.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>JavaScript
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
