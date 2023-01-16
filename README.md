@@ -1,19 +1,12 @@
 ![MasterHead](Pics/Home.gif)
 <h1 align="center">Hi 👋, I'm Shanmukha Srinivasulu Royal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<br><br>
-<br/><br/>
-<img align="right" alt="Coding" width="400" src="Pics/Profile.gif">
-
-
-<br><br>
-<br/><br/>
 
 <div align=center>
 <table>
   <tr>
     <td align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
+<p align="left"> <img align="right" alt="Coding" height="400" width="500"  src="Pics/Profile.gif"> </p>
       </a>
       <br>
    
@@ -21,6 +14,10 @@
 </table>
 </div>
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
+   
 
 
 
@@ -44,10 +41,7 @@
 <br/><br/>
 
 
-
-
-
-<p align="left">
+<p align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chittu13&theme=elegant&border_radius=11.9)](https://git.io/streak-stats)
 </p>
