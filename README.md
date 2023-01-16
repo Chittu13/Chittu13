@@ -1,10 +1,13 @@
 ![MasterHead](Pics/Home.gif)
 <h1 align="center">Hi 👋, I'm Shanmukha Srinivasulu Royal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<br><br>
+<br/><br/>
 <img align="right" alt="Coding" width="400" src="Pics/Profile.gif">
 
 
-
+<br><br>
+<br/><br/>
 
 <div align=center>
 <table>
