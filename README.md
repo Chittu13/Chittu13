@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td align="center">
-<p align="left"> <img align="right" alt="Coding" height="400" width="500"  src="Pics/Profile.gif"> </p>
+<p align="left"> <img align="right" alt="Coding" height="300" width="400"  src="Pics/Profile.gif"> </p>
       </a>
       <br>
    
@@ -15,12 +15,7 @@
 </div>
 
 
-<table>
-  <tr>
-    <td align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
-     </tr>
-</table>
 
 
 
@@ -43,7 +38,7 @@
 
 <br/><br/>
 
-
+# MY Status
 <p align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chittu13&theme=elegant&border_radius=11.9)](https://git.io/streak-stats)
