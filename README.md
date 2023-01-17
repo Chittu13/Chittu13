@@ -79,13 +79,13 @@
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <a href="" target="_blank" rel="noopener noreferrer">
+      <a href="https://code.visualstudio.com/learn" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/visual-studio.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Visual Studio
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" target="_blank" rel="noopener noreferrer">
+      <a href="https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/" target="_blank" rel="noopener noreferrer">
          <img src="Pics/new/PowerShell.svg" width="48" height="48"  />
       </a>
       <br>PowerShell
@@ -93,37 +93,37 @@
       </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.learncpp.com/" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/c%2B%2B.svg" width="48" height="48"  />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.tutorialspoint.com/html5/index.htm" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/html5.svg" width="48" height="48"  />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.w3schools.com/Css/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/css3.svg" width="48" height="48"  />
       </a>
       <br>CSS3
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/git.svg" width="48" height="48"  />
       </a>
       <br>Git
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech" target="_blank" rel="noopener noreferrer">
+      <a href="#https://skills.github.com/" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/github.svg" width="48" height="48"  />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.markdowntutorial.com/" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/markdown.svg" width="48" height="48" />
       </a>
       <br>MarkDown
