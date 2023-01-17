@@ -142,6 +142,8 @@
 </h4>
 
 
+## Snake game
+
 ![snake gif](https://github.com/Chittu13/Chittu13/blob/output/github-contribution-grid-snake.gif)
 
 
