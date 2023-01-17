@@ -15,9 +15,12 @@
 </div>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
-   
+<table>
+  <tr>
+    <td align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
+     </tr>
+</table>
 
 
 
