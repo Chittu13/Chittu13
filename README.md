@@ -55,7 +55,7 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="https://www.learnpython.org/" target="_blank" rel="noreferrer">
+      <a href="https://www.learnpython.org/" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/python.svg" width="48" height="48"  />
       </a>
       <br>Python
