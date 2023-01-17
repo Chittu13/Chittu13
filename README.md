@@ -55,38 +55,38 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="(https://www.learnpython.org/)">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/python.svg" width="48" height="48" alt="JavaScript" />
+      <a href="https://www.learnpython.org/" target="_blank" rel="noreferrer">
+        <img src="Pics/new/python.svg" width="48" height="48"  />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/CMD.svg" width="48" height="48" alt="Python" />
+        <img src="Pics/new/cmd.svg" width="48" height="48"  />
       </a>
       <br>CMD
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Golang" />
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48"  />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/kali-linux.svg" width="80" height="80" alt="Jsonnet" />
+        <img src="Pics/new/kali-linux.svg" width="80" height="80"  />
       </a>
       <br>Kali Linux
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/visual-studio.svg" width="48" height="48" alt="TypeScript" />
+        <img src="Pics/new/visual-studio.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Visual Studio
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-         <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/PowerShell.svg" width="48" height="48" alt="C#" />
+         <img src="Pics/new/PowerShell.svg" width="48" height="48"  />
       </a>
       <br>PowerShell
     </td>
@@ -94,37 +94,37 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/c%2B%2B.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="Pics/new/c%2B%2B.svg" width="48" height="48"  />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/html5.svg" width="48" height="48" alt="Sass" />
+        <img src="Pics/new/html5.svg" width="48" height="48"  />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/css3.svg" width="48" height="48" alt="Docker" />
+        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/css3.svg" width="48" height="48"  />
       </a>
       <br>CSS3
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/git.svg" width="48" height="48" alt="Debian" />
+        <img src="Pics/new/git.svg" width="48" height="48"  />
       </a>
       <br>Git
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/github.svg" width="48" height="48" alt="RHEL" />
+        <img src="Pics/new/github.svg" width="48" height="48"  />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/markdown.svg" width="48" height="48" alt="Powershell" />
+        <img src="Pics/new/markdown.svg" width="48" height="48" />
       </a>
       <br>MarkDown
     </td>
