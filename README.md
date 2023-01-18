@@ -42,6 +42,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chittu13&theme=elegant&border_radius=11.9)](https://git.io/streak-stats)
 </p>
 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittu13&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
 
 
 <h2 align="center">👨‍💻 Favorite Tech 👨‍💻</h2>
@@ -143,5 +146,8 @@
 ## Snake game
 
 ![snake gif](https://github.com/Chittu13/Chittu13/blob/output/github-contribution-grid-snake.gif)
+
+
+
 
 
