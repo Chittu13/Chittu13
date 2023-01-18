@@ -1,14 +1,12 @@
 ![MasterHead](Pics/Home.gif)
-<h1 align="center">Hi 👋, I'm Shanmukha Srinivasulu Royal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<div align=center>
-<table>
-  <tr>
-    <td align="center">
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=A53A5D&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Shanmukha+Royal+%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
+</h1>
+
 <p align="left"> <img align="right" alt="Coding" height="300" width="400"  src="Pics/Profile.gif"> </p>
-      </a>
-      <br>
+
    
   </tr>
 </table>
