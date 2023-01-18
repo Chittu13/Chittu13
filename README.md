@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=0EFF38&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Shanmukha++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=39FFED&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Shanmukha++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
 </h1>
 
 <p align="left"> <img align="right" alt="Coding" height="300" width="400"  src="Pics/Profile.gif"> </p>
@@ -39,7 +39,7 @@
 # MY Status
 <p align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chittu13&theme=elegant&border_radius=11.9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chittu13&theme=algolia&bg_color=232a)](https://git.io/streak-stats)
 </p>
 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittu13&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -55,7 +55,7 @@
   <tr>
     <td align="center" width="100">
       <a href="https://www.learnpython.org/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/python.svg" width="48" height="48"  />
+        <img src="Pics/new/python.svg" width="48" height="48"&theme=algolia&border_radius=5  />
       </a>
       <br>Python
     </td>
@@ -123,7 +123,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.markdowntutorial.com/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/markdown.svg" width="48" height="48" />
+        <img src="Pics/new/markdown.svg" width="48" height="48"&theme=algolia&border_radius=5 />
       </a>
       <br>MarkDown
     </td>
