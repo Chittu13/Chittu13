@@ -8,9 +8,6 @@
 <p align="left"> <img align="right" alt="Coding" height="300" width="400"  src="Pics/Profile.gif"> </p>
 
    
-  </tr>
-</table>
-</div>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
@@ -37,11 +34,13 @@
 <br/><br/>
 
 # MY Status
-<p align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chittu13&theme=algolia&bg_color=232a)](https://git.io/streak-stats)
-</p>
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Chittu13&theme=vue-dark)](https://git.io/streak-stats)
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Chittu13&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> </p>
+<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittu13&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
