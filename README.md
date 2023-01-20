@@ -40,7 +40,7 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Chittu13&show_icons=true&theme=algolia" alt="abhisheknaiidu" /> </p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Chittu13&show_icons=true&theme=algolia" alt="abhisheknaiidu" /> 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittu13&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
