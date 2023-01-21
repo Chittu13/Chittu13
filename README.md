@@ -35,10 +35,10 @@
 <br/><br/>
 
 # MY Status
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Chittu13&theme=algolia" />
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Chittu13&theme=algolia)](https://git.io/streak-stats)
-
-
+</p>
 
  <img src="https://github-readme-stats.vercel.app/api?username=Chittu13&show_icons=true&theme=algolia" alt="abhisheknaiidu" /> 
 <p align="center">
