@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Networking**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Linux**
 
 - 📫 How to reach me **royalchittu@gmail.com**
 
