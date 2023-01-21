@@ -50,6 +50,15 @@
 
 
 
+
+
+    <div class="div-1"> I love HTML </div>
+    <div class="div-2"> I love CSS </div>
+    <div class="div-3"> I love JavaScript </div>
+
+
+
+
 <h2 align="center">👨‍💻 Favorite Tech 👨‍💻</h2>
 
 <h2 align="center">💻Tools, languages, and other things that I Learing💻</h2>
