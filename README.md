@@ -47,19 +47,19 @@
      
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Chittu13&theme=algolia" />
+  <img src="https://streak-stats.demolab.com?user=Chittu13&theme=blue-green" />
 </p>
 
 
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=Chittu13&show_icons=true&theme=algolia" alt="abhisheknaiidu" /> 
+ <img src="https://github-readme-stats.vercel.app/api?username=Chittu13&show_icons=true&theme=blue-green" alt="status" /> 
 </p>
 
 
 
 <p align="right">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittu13&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittu13&theme=chartreuse-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
