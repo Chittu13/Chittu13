@@ -39,19 +39,26 @@
 
 
 
-</p>
- <img src="Pics/g11.gif" alt="abhisheknaiidu" height="300" width="300" /> 
+
+   
+<p align="left"> <img align="right" alt="Coding" height="300" width="300"  src="Pics/g11.gif"> </p>
+
+   
+     
+
 <p align="left">
-
-<p align="right">
   <img src="https://streak-stats.demolab.com?user=Chittu13&theme=algolia" />
-
-
 </p>
+
+
+
+<p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Chittu13&show_icons=true&theme=algolia" alt="abhisheknaiidu" /> 
+</p>
+
+
+
 <p align="right">
-
-
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittu13&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
