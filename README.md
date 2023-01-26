@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/114333116/213763799-52b2ca4d-99bf-4a31-9247-955dab436723.png)
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=30F732&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Shanmukha++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=35B46D&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Shanmukha++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
 </h1>
 
 <p align="left"> <img align="right" alt="Coding" height="300" width="300"  src="Pics/p5.gif"> </p>
@@ -47,19 +47,19 @@
      
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Chittu13&theme=blue-green" />
+  <img src="https://streak-stats.demolab.com?user=Chittu13&theme=gotham" />
 </p>
 
 
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=Chittu13&show_icons=true&theme=blue-green" alt="status" /> 
+ <img src="https://github-readme-stats.vercel.app/api?username=Chittu13&show_icons=true&theme=gotham" alt="status" /> 
 </p>
 
 
 
 <p align="right">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittu13&theme=chartreuse-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittu13&theme=gotham&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
