@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/114333116/213763799-52b2ca4d-99bf-4a31-9247-955dab436723.png)
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=46d0ca&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Shanmukha++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=30F732&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Shanmukha++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
 </h1>
 
 <p align="left"> <img align="right" alt="Coding" height="300" width="300"  src="Pics/p5.gif"> </p>
@@ -41,7 +41,7 @@
 
 
    
-<p align="left"> <img align="right" alt="Coding" height="500" width="500"  src="Pics/g11.gif"> </p>
+<p align="left"> <img align="right" alt="Coding" height="400" width="400"  src="Pics/g4.gif"> </p>
 
    
      
@@ -164,9 +164,7 @@
 </h4>
 
 
-## Snake game
 
-![snake gif](https://github.com/Chittu13/Chittu13/blob/output/github-contribution-grid-snake.gif)
 
 
 
