@@ -34,14 +34,16 @@
 
 
 
-# \color{#35B46D}{your-text-here}
 
 
-<font color='red'>test blue color font</font>
+
+
 
 
 <h1 style="color: #35B46D"> MY Status </h1>
 
+
+<span style="color: red;">This text is red.</span>
 
 
 
