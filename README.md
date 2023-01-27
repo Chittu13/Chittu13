@@ -47,7 +47,7 @@
 
 
    
-<p align="left"> <img align="right" alt="Coding" height="400" width="400"  src="Pics/g4.gif"> </p>
+<p align="left"> <img align="right" alt="Coding" height="300" width="300"  src="Pics/g4.gif"> </p>
 
    
      
