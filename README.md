@@ -43,11 +43,6 @@
 <h1> MY Status </h1>
 
 
-<span style="color: red;">This text is red.</span>
-
-
-
-
    
 <p align="left"> <img align="right" alt="Coding" height="300" width="300"  src="Pics/g4.gif"> </p>
 
