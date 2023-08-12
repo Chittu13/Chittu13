@@ -64,10 +64,6 @@
 
 
 
-<p align="right">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittu13&theme=gotham&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
 
 
 
