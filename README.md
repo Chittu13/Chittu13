@@ -163,11 +163,7 @@
 
 
 
-
-<h4 align="center">
-  <a href="https://github.com/Chittu13?tab=repositories" title="Show Repositories">🔎 MyRepositories 🔍</a>
-</h4>
-
+<img src="Pics/final.svg" />
 
 
 
