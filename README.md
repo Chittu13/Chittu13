@@ -43,7 +43,7 @@
 <br><br>
 <img align="left" src = "Pics/sys.gif" width = 70px height=70px>
 <p><strong> My Status</strong></p>
-<img src="Pics/line.gif">
+<img src="https://github.com/Chittu13/test1/blob/main/pics/line.gif">
 
 <br><br>
 
