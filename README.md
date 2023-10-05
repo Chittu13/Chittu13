@@ -58,9 +58,10 @@
 
 
 
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=Chittu13&show_icons=true&theme=gotham" alt="status" /> 
-</p>
+<div align="left">
+<a href="https://github.com/Chittu13">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chittu13&theme=gotham" height="180em" />
+</div>
 
 
 
