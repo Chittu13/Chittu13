@@ -42,8 +42,9 @@
 
 <br><br>
 <img align="left" src = "Pics/sys.gif" width = 70px height=70px>
-<h1 align="left">My Status  </h1> 
+<p><strong> My Status</strong></p>
 <img src="Pics/line.gif">
+
 <br><br>
 
 
