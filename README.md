@@ -41,8 +41,9 @@
 
 
 <br><br>
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 70px height=70px>
+<img align="left" src = "Pics/sys.gif" width = 70px height=70px>
 <h1 align="left">My Status  </h1> 
+<img src="Pics/line.gif">
 <br><br>
 
 
