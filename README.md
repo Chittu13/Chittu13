@@ -98,16 +98,16 @@
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/kali-linux.svg" width="80" height="80"  />
+      <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" height="80"  />
       </a>
-      <br>Kali Linux
+      <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="https://code.visualstudio.com/learn" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/visual-studio.svg" width="48" height="48" alt="TypeScript" />
+      <a href="https://www.mathworks.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Visual Studio
+      <br>MathLab
     </td>
     <td align="center" width="96">
       <a href="https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/" target="_blank" rel="noopener noreferrer">
@@ -130,10 +130,10 @@
       <br>HTML5
     </td>
     <td align="center" width="96"> 
-      <a href="https://www.w3schools.com/Css/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/css3.svg" width="48" height="48"  />
+      <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg  " width="48" height="48"  />
       </a>
-      <br>CSS3
+      <br>Java
     </td>
     <td align="center"  width="96">
       <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noopener noreferrer">
@@ -153,8 +153,17 @@
       </a>
       <br>MarkDown
     </td>
+
     
    
+  </tr>
+    <tr>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"  />
+      </a>
+      <br>MySQL
+    </td>
   </tr>
 </table>
 </div>
@@ -164,6 +173,18 @@
 
 
 <img src="Pics/final.svg" />
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
 
 
 
