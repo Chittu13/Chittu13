@@ -93,7 +93,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://learn-bash.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48"  />
+        <img src="Pics/new/full_colored_dark.svg" width="48" height="48"  />
       </a>
       <br>Bash
     </td>
@@ -137,15 +137,15 @@
     </td>
     <td align="center"  width="96">
       <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/git.svg" width="48" height="48"  />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"  />
       </a>
       <br>Git
     </td>
-    <td align="center"  width="96">
-      <a href="#https://skills.github.com/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/github.svg" width="48" height="48"  />
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"  />
       </a>
-      <br>GitHub
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="https://www.markdowntutorial.com/" target="_blank" rel="noopener noreferrer">
@@ -157,14 +157,7 @@
     
    
   </tr>
-    <tr>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"  />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
+
 </table>
 </div>
 
