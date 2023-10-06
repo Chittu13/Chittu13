@@ -87,7 +87,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://riptutorial.com/cmd" >
-        <img src="Pics/new/cmd.svg" width="48" height="48" target="_blank" rel="noopener noreferrer" />
+        <img src="Pics/new/command-line.png" width="48" height="48" target="_blank" rel="noopener noreferrer" />
       </a>
       <br>CMD
     </td>
