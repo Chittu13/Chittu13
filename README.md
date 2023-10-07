@@ -43,7 +43,7 @@
 <br><br>
 <img align="left" src = "Pics/sys.gif" width = 70px height=70px>
 <p><strong> My Status</strong></p>
-<img src="https://github.com/Chittu13/test1/blob/main/pics/line.gif">
+
 
 <br><br>
 
@@ -148,10 +148,10 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="https://www.markdowntutorial.com/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/markdown.svg" width="48" height="48"&theme=algolia&border_radius=5 />
+      <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/new/javascript.svg" width="48" height="48"&theme=algolia&border_radius=5 />
       </a>
-      <br>MarkDown
+      <br>JavaScript
     </td>
 
     
