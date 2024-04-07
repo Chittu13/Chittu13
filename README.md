@@ -101,10 +101,10 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="https://www.mathworks.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="TypeScript" />
+      <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/wireshark.jpeg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>MathLab
+      <br>Wireshark
     </td>
     <td align="center" width="96">
       <a href="https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/" target="_blank" rel="noopener noreferrer">
@@ -145,10 +145,10 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/javascript.svg" width="48" height="48"&theme=algolia&border_radius=5 />
+      <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/metasploit.jpeg" width="48" height="48"&theme=algolia&border_radius=5 />
       </a>
-      <br>JavaScript
+      <br>Metasploit
     </td>
 
     
