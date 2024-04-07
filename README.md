@@ -107,10 +107,10 @@
       <br>Wireshark
     </td>
     <td align="center" width="96">
-      <a href="https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/" target="_blank" rel="noopener noreferrer">
-         <img src="Pics/new/PowerShell.svg" width="48" height="48"  />
+      <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
+         <img src="Pics/nmap.png" width="60" height="60"  />
       </a>
-      <br>PowerShell
+      <br>Nmap
     </td>
       </tr>
   <tr>
