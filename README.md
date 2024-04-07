@@ -1,5 +1,4 @@
 ![MasterHead](wallpic.gif)
-<img align="right" alt="Coding" width="400" src="wallpic.gif">
 ![image](https://user-images.githubusercontent.com/114333116/213763799-52b2ca4d-99bf-4a31-9247-955dab436723.png)
 
 <h1 align="center">
