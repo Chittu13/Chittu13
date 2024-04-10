@@ -18,7 +18,7 @@
 
 - 💬 Ask me about Linux
 
-- 📫 How to reach me **royalchittu@gmail.com**
+- 📫 How to reach me **shanmukha.s.royal@gmail.com**
 
 
 
