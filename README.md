@@ -20,7 +20,6 @@
 
 - 📫 How to reach me **royalchittu@gmail.com**
 
-- ⚡ Fun fact **I am not Funny**
 
 
 
