@@ -14,10 +14,6 @@
 
 
 
-- 🌱 I’m currently learning **Networking**
-
-- 💬 Ask me about Linux
-
 - 📫 How to reach me **shanmukha.s.royal@gmail.com**
 
 
