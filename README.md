@@ -12,9 +12,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
 
 
-- 🔐 **Cybersecurity**
+- 🔐 **Cybersecurity**.
 - 👨‍💻 Programming Skills **C, C++, Python, Bash.**
-- 🚩 CTF Player
+- 🚩 CTF Player.
 - 📫 How to reach me **shanmukha.s.royal@gmail.com**
 
 
