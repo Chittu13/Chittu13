@@ -38,17 +38,26 @@
 <div align=center>
 <table>
   <tr>
+    <td align="left" width="100">
+      <b>Programming:</b>
+    </td>
+        <td align="center" width="96">
+      <a href="https://www.programiz.com/c-programming" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/new/c.svg" width="48" height="48"  />
+      </a>
+      <br>C
+    </td>
+        <td align="center" width="96">
+      <a href="https://www.learncpp.com/" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/new/c%2B%2B.svg" width="48" height="48"  />
+      </a>
+      <br>C++
+    </td>
     <td align="center" width="100">
       <a href="https://www.learnpython.org/" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/python.svg" width="48" height="48"&theme=algolia&border_radius=5  />
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://riptutorial.com/cmd" >
-        <img src="Pics/new/command-line.png" width="48" height="48" target="_blank" rel="noopener noreferrer" />
-      </a>
-      <br>CMD
     </td>
     <td align="center" width="96">
       <a href="https://learn-bash.org/" target="_blank" rel="noopener noreferrer">
@@ -76,11 +85,8 @@
     </td>
       </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="https://www.learncpp.com/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/c%2B%2B.svg" width="48" height="48"  />
-      </a>
-      <br>C++
+    <td align="left" width="100">
+      <b>Tools:</b>
     </td>
     <td align="center" width="96">
       <a href="https://www.tutorialspoint.com/html5/index.htm" target="_blank" rel="noopener noreferrer">
@@ -112,15 +118,10 @@
       </a>
       <br>Metasploit
     </td>
-
-    
-   
   </tr>
-
 </table>
 </div>
 
-<br/>
 
 
 
