@@ -129,7 +129,7 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-      <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/github.svg" width="48" height="48"  />
       </a>
       <br>GitHub
