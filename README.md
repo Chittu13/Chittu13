@@ -70,16 +70,22 @@
       </a>
       <br>Linux
     </td>
+      </tr>
+  <tr>
+    <td align="left" width="100">
+      <b>Tools:</b>
+    </td>
     <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
          <img src="Pics/nmap.png" width="60" height="60"  />
       </a>
       <br>Nmap
     </td>
-      </tr>
-  <tr>
-    <td align="left" width="100">
-      <b>Tools:</b>
+        <td align="center" width="96">
+      <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/metasploit.jpeg" width="48" height="48"&theme=algolia&border_radius=5 />
+      </a>
+      <br>Metasploit
     </td>
         <td align="center" width="96">
       <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
@@ -110,12 +116,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"  />
       </a>
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/metasploit.jpeg" width="48" height="48"&theme=algolia&border_radius=5 />
-      </a>
-      <br>Metasploit
     </td>
   </tr>
 </table>
