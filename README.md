@@ -9,7 +9,6 @@
 
 
 - 🔐 **Cybersecurity**.
-- 👨‍💻 Programming Skills **C, C++, Python, Bash.**
 - 🚩 CTF Player.
 - 📫 How to reach me **shanmukha.s.royal@gmail.com**
 
