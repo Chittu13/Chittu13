@@ -71,12 +71,6 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/wireshark.jpeg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Wireshark
-    </td>
-    <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
          <img src="Pics/nmap.png" width="60" height="60"  />
       </a>
@@ -86,6 +80,12 @@
   <tr>
     <td align="left" width="100">
       <b>Tools:</b>
+    </td>
+        <td align="center" width="96">
+      <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/wireshark.jpeg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Wireshark
     </td>
     <td align="center" width="96">
       <a href="https://www.tutorialspoint.com/html5/index.htm" target="_blank" rel="noopener noreferrer">
