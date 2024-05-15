@@ -93,6 +93,12 @@
       </a>
       <br>Wireshark
     </td>
+        <td align="center" width="96">
+      <a href="https://ghidra-sre.org/" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/new/ghidra.svg" width="48" height="48"  />
+      </a>
+      <br>Ghidra
+    </td>
     <td align="center" width="96">
       <a href="https://www.tutorialspoint.com/html5/index.htm" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/html5.svg" width="48" height="48"  />
