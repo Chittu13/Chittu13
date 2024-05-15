@@ -83,7 +83,7 @@
     </td>
         <td align="center" width="96">
       <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/metasploit.jpeg" width="48" height="48"&theme=algolia&border_radius=5 />
+        <img src="Pics/new/metasploit.png" width="48" height="48"&theme=algolia&border_radius=5 />
       </a>
       <br>Metasploit
     </td>
