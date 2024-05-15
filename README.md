@@ -66,7 +66,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" height="80"  />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"  />
       </a>
       <br>Linux
     </td>
@@ -77,7 +77,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
-         <img src="Pics/nmap.png" width="60" height="60"  />
+         <img src="Pics/new/nmap.svg" width="48" height="48"  />
       </a>
       <br>Nmap
     </td>
