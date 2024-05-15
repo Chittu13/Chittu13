@@ -52,6 +52,12 @@
       </a>
       <br>C++
     </td>
+        <td align="center" width="96"> 
+      <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg  " width="48" height="48"  />
+      </a>
+      <br>Java
+    </td>
     <td align="center" width="100">
       <a href="https://www.learnpython.org/" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/python.svg" width="48" height="48"&theme=algolia&border_radius=5  />
@@ -98,24 +104,6 @@
         <img src="Pics/new/burpsuite.svg" width="48" height="48"  />
       </a>
       <br>BurpSuite
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tutorialspoint.com/html5/index.htm" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/html5.svg" width="48" height="48"  />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg  " width="48" height="48"  />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"  />
-      </a>
-      <br>MySQL
     </td>
   </tr>
     <tr>
