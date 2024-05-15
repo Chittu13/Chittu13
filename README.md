@@ -64,12 +64,6 @@
       </a>
       <br>Bash
     </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"  />
-      </a>
-      <br>Linux
-    </td>
       </tr>
   <tr>
     <td align="left" width="100">
@@ -117,12 +111,6 @@
       </a>
       <br>Java
     </td>
-    <td align="center"  width="96">
-      <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"  />
-      </a>
-      <br>Git
-    </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"  />
@@ -130,6 +118,28 @@
       <br>MySQL
     </td>
   </tr>
+    <tr>
+    <td align="left" width="100">
+      <b>Dev Tools:</b>
+    </td>
+      <td align="center"  width="96">
+      <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"  />
+      </a>
+      <br>Git
+    </td>
+    </tr>
+  <tr>
+    <td align="left" width="100">
+      <b>OS:</b>
+    </td>
+          <td align="center" width="96">
+      <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"  />
+      </a>
+      <br>Linux
+    </td>
+    </tr>
 </table>
 </div>
 
