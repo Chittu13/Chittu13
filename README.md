@@ -139,10 +139,15 @@
       </a>
       <br>Tails
     </td>
+        <td align="center" width="96">
+      <a href="https://tails.net/" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/new/Qubes.svg" width="48" height="48"  />
+      </a>
+      <br>Qubes
+    </td>
     </tr>
 </table>
 </div>
-
 
 
 
