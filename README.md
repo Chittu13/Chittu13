@@ -129,7 +129,7 @@
     </td>
       <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"  />
+        <img src="Pics/new/linux.svg" width="48" height="48"  />
       </a>
       <br>Linux
     </td>
