@@ -118,7 +118,7 @@
     </td>
     <td align="center"  width="96">
       <a href="https://github.com" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/github.svg" width="48" height="48"  />
+        <img src="Pics/new/github1.svg" width="48" height="48"  />
       </a>
       <br>GitHub
     </td>
