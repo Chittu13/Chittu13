@@ -112,7 +112,7 @@
     </td>
       <td align="center"  width="96">
       <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"  />
+        <img src="Pics/new/git.svg" width="48" height="48"  />
       </a>
       <br>Git
     </td>
