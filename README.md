@@ -128,8 +128,8 @@
       <b>OS:</b>
     </td>
       <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-        <img src="Pics/new/linux.svg" width="48" height="48"  />
+      <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/new/kali-linux.svg" width="48" height="48"  />
       </a>
       <br>Linux
     </td>
@@ -140,7 +140,7 @@
       <br>Tails
     </td>
         <td align="center" width="96">
-      <a href="https://tails.net/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.qubes-os.org/" target="_blank" rel="noopener noreferrer">
         <img src="Pics/new/Qubes.svg" width="48" height="48"  />
       </a>
       <br>Qubes
