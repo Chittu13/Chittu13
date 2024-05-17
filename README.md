@@ -145,6 +145,12 @@
       </a>
       <br>Qubes
     </td>
+    <td align="center" width="96">
+      <a href="https://www.qubes-os.org/" target="_blank" rel="noopener noreferrer">
+        <img src="Pics/new/raspberrypi.svg" width="48" height="48"  />
+      </a>
+      <br>RaspberryPi
+    </td>
     </tr>
 </table>
 </div>
