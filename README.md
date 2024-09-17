@@ -1,7 +1,7 @@
 ![MasterHead](Pics/original.jpg)
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=31F725FF&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Shanmukha++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=31F725FF&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Mr.NoOne++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
 </h1>
 
 
@@ -10,7 +10,7 @@
 
 - 🔐 **Cybersecurity**.
 - 🚩 CTF Player.
-- 📫 How to reach me **shanmukha.s.royal@gmail.com**
+
 
 
 
