@@ -10,7 +10,7 @@
 
 - 🔐 **Cybersecurity**.
 - 🚩 CTF Player.
-- 📫 How to reach me **shanmukha.s.royal@gmail.com**
+
 
 
 
