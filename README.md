@@ -27,16 +27,7 @@ Hey there! I'm __Mr.NoOne__, a passionate cybersecurity professional specializin
 
 
 
-<br>
 
-<img align="left" src = "Pics/sys.gif" width = 70px height=70px>
-<h1><strong> My Status</strong></h1>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chittu13&theme=gotham" />
-  <a href="https://github.com/Chittu13">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chittu13&theme=gotham" height="180em" />
-</p>
 
 
 
