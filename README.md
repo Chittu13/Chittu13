@@ -5,12 +5,16 @@
 </h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chittu13&label=Profile%20views&color=0e75b6&style=flat" alt="chittu13" /> </p>
+Hey there! I'm __Mr.NoOne__, a passionate cybersecurity professional specializing in penetration testing and bug bounty hunting. :lock:
+
+- :earth_americas: I'm active on [LinkedIn](https://www.linkedin.com/in/saisathvikruppa/), where I share insights and updates on the latest cybersecurity trends.
+- :octocat: I'm an active GitHub user, and you can find some of my featured repositories below.
 
 
-- 🔐 **Cybersecurity**.
-- 🚩 CTF Player.
+## :heavy_check_mark: Certifications
 
+- Junior Penetration Tester (eJPTv2) :white_check_mark:
+- Web Application Penetration Tester (eWPTv2) :white_check_mark:
 
 
 
