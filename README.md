@@ -15,6 +15,13 @@ Hey there! I'm __Mr.NoOne__, a passionate cybersecurity professional specializin
 - Junior Penetration Tester (eJPTv2) :white_check_mark:
 - Web Application Penetration Tester (eWPTv2) :white_check_mark:
 
+## :octocat: Featured Repositories
+
+- [OSCP Cheatsheet](https://github.com/saisathvik1/OSCP-Cheatsheet) - OSCP Cheatsheet I used during my OSCP preparation.
+- [Linux Privilege Escalation Notes](https://github.com/saisathvik1/Linux-Privilege-Escalation-Notes) - Linux Privilege Escalation notes.
+- [Windows Privilege Escalation Notes](https://github.com/saisathvik1/Windows-Privilege-Escalation-Notes) - Windows Privilege Escalation Notes.
+
+
 
 
 
