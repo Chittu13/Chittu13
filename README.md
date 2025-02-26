@@ -15,6 +15,11 @@ Hey there! I'm __Mr.NoOne__, a passionate cybersecurity professional specializin
 - Junior Penetration Tester (eJPTv2) :white_check_mark:
 - Web Application Penetration Tester (eWPTv2) :white_check_mark:
 
+## :octocat: Featured Repositories
+
+- [WEB Cheatsheet](https://github.com/Chittu13/web) - Web Pentesting Cheatsheet I used during assessments..
+- [Linux Privilege Escalation Notes](https://github.com/Chittu13/Linux-Privilege-Escalation-Notes) - Linux Privilege Escalation notes.
+- [Windows Privilege Escalation Notes](https://github.com/Chittu13/Windows-Privilege-Escalation-Notes) - Windows Privilege Escalation Notes.
 
 
 
