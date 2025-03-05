@@ -5,7 +5,7 @@
 </h1>
 
 
-Hey there! I'm __Mr.NoOne__, a passionate cybersecurity professional specializing in penetration testing and bug bounty hunting. :lock:
+Hey there! I'm __Mr.NoOne__, a cybersecurity professional specializing in penetration testing and bug bounty hunting. :lock:
 
 - :octocat: I'm an active GitHub user, and you can find some of my featured repositories below.
 
