@@ -17,10 +17,20 @@ Hey there! I'm __Mr.NoOne__, a cybersecurity professional specializing in penetr
 
 ## :octocat: Featured Repositories
 
-- [WEB Cheatsheet](https://github.com/Chittu13/web) - Web Pentesting Cheatsheet I used during assessments..
-- [Linux Privilege Escalation Notes](https://github.com/Chittu13/Linux-Privilege-Escalation-Notes) - Linux Privilege Escalation notes.
-- [Windows Privilege Escalation Notes](https://github.com/Chittu13/Windows-Privilege-Escalation-Notes) - Windows Privilege Escalation Notes.
-- [CTF Cheatsheet](https://github.com/Chittu13/CTF) - CTF Cheatsheet I used during CTF competitions.
+<table>
+  <tr>
+    <td><img src="Pics/typing.gif" width="300"></td>
+    <td>
+      <ul>
+        <li><a href="https://github.com/Chittu13/web">WEB Cheatsheet</a> - Web Pentesting Cheatsheet I used during assessments.</li>
+        <li><a href="https://github.com/Chittu13/Linux-Privilege-Escalation-Notes">Linux Privilege Escalation Notes</a> - Linux Privilege Escalation notes.</li>
+        <li><a href="https://github.com/Chittu13/Windows-Privilege-Escalation-Notes">Windows Privilege Escalation Notes</a> - Windows Privilege Escalation Notes.</li>
+        <li><a href="https://github.com/Chittu13/CTF">CTF Cheatsheet</a> - CTF Cheatsheet I used during CTF competitions.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 
