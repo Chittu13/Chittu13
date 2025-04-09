@@ -4,8 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=31F725FF&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Mr.NoOne++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
 </h1>
 
+Hello, I’m __Mr.N0On3__, a Security Analyst Intern from Bengaluru,India. My passion for technology began at a young age and has only grown stronger as I’ve explored the endless possibilities it offers. As a final-year Computer Science and Engineering student, I’ve focused my academic and professional journey on cybersecurity, with a particular interest in vulnerability assessment and penetration testing.
 
-Hey there! I'm __Mr.NoOne__, a cybersecurity professional specializing in penetration testing and bug bounty hunting. :lock:
+Throughout my journey, I’ve developed a deep understanding of various security practices, tools, and methodologies. I specialize in identifying and exploiting vulnerabilities using the OWASP framework, which has guided my approach to web application security and network testing. I’m skilled in utilizing the OWASP Top 10 vulnerabilities to assess and strengthen security measures. My experience spans a variety of security techniques, including penetration testing, vulnerability scanning, and risk analysis.
+:lock:
 
 - :octocat: I'm an active GitHub user, and you can find some of my featured repositories below.
 
