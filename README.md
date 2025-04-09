@@ -6,10 +6,8 @@
 
 Hello, I’m __Mr.N0On3__, a Security Analyst Intern from Bengaluru,India. My passion for technology began at a young age and has only grown stronger as I’ve explored the endless possibilities it offers. As a final-year Computer Science and Engineering student, I’ve focused my academic and professional journey on cybersecurity, with a particular interest in vulnerability assessment and penetration testing.
 
-Throughout my journey, I’ve developed a deep understanding of various security practices, tools, and methodologies. I specialize in identifying and exploiting vulnerabilities using the OWASP framework, which has guided my approach to web application security and network testing. I’m skilled in utilizing the OWASP Top 10 vulnerabilities to assess and strengthen security measures. My experience spans a variety of security techniques, including penetration testing, vulnerability scanning, and risk analysis.
-:lock:
+Throughout my journey, I’ve developed a deep understanding of various security practices, tools, and methodologies. I specialize in identifying and exploiting vulnerabilities using the OWASP framework, which has guided my approach to web application security and network testing. I’m skilled in utilizing the OWASP Top 10 vulnerabilities to assess and strengthen security measures. My experience spans a variety of security techniques, including penetration testing, vulnerability scanning, and risk analysis. :lock:
 
-- :octocat: I'm an active GitHub user, and you can find some of my featured repositories below.
 
 
 ## :heavy_check_mark: Certifications
