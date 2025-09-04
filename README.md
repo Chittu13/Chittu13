@@ -16,7 +16,9 @@ Throughout my journey, I’ve developed a deep understanding of various security
 - Web Application Penetration Tester (eWPTv2) :white_check_mark:
 
 ## :octocat: Featured Repositories
+### ⚠️ DISCLAIMER ⚠️
 
+**My notes are based on my understanding and may not always be correct. Some sections are well-structured and detailed, while others are rough or unorganized. Over time, I’ll refine and improve them. The more I revisit certain topics, the clearer and more consistent my notes will become.**
 <table>
   <tr>
     <td><img src="Pics/typing.gif" width="300"></td>
