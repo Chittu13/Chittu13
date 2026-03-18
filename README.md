@@ -11,12 +11,13 @@ I work on security assessments across web, API, and Network, and also perform so
 I enjoy approaching systems from an attacker’s perspective and aim to help improve security by identifying and understanding weaknesses before they can be exploited. 🔐
 </p>
 
-<h2 align="left">📫 Connect with Me</h2>
 
-<p align="left">
-📧 Email: <a href="mailto:shanmukha.s.royal@gmail.com">shanmukha.s.royal@gmail.com</a><br>
-💼 LinkedIn: <a href="https://linkedin.com/in/shanmukha108">linkedin.com/in/shanmukha108</a>
-</p>
+<h2 align="left">Contact</h2>
+
+<ul>
+  <li><b>📧 Email: </b> <a href="mailto:shanmukha.s.royal@gmail.com">shanmukha.s.royal@gmail.com</a></li>
+  <li><b>💼 LinkedIn: </b> <a href="https://www.linkedin.com/in/shanmukha108">linkedin.com/in/shanmukha108</a></li>
+</ul>
 
 ## :heavy_check_mark: Certifications
 
