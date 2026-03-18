@@ -6,7 +6,12 @@
 
 I am Mr.N0On3, a Security Analyst specializing in security testing for web applications, APIs, and networks, with a focus on identifying real-world security vulnerabilities. :lock:
 
+<h2 align="center">📫 Connect with Me</h2>
 
+<p align="center">
+  📧 Email: <a href="mailto:shanmukha.s.royal@gmail.com">shanmukha.s.royal@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://linkedin.com/in/shanmukha108">linkedin.com/in/shanmukha108</a>
+</p>
 
 ## :heavy_check_mark: Certifications
 
