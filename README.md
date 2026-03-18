@@ -4,11 +4,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=31F725FF&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Mr.NoOne++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
 </h1>
 <p align="left">
-Hi, I'm <b>K Shanmukha Srinivasulu Royal (Mr.N0On3)</b>, a Security Analyst with a strong interest in finding real-world vulnerabilities in web applications, APIs, and network environments.
+Hi, I'm <b>K Shanmukha Srinivasulu Royal (Mr.N0On3)</b>, a Security Analyst with a strong interest in identifying real-world vulnerabilities in web applications, APIs, and network environments.
+</p>
 
-I work on security assessments across web, API, and Network, and also perform source code reviews to identify logic flaws and potential security gaps. Alongside this, I regularly participate in CTFs and security research to sharpen my practical skills and stay updated with modern attack techniques.
+<p align="left">
+I perform security assessments across Web, API, and Network, and conduct source code reviews to identify logic flaws and security gaps. I also actively participate in CTFs and security research to sharpen my practical skills and stay current with modern attack techniques.
+</p>
 
-I enjoy approaching systems from an attacker’s perspective and aim to help improve security by identifying and understanding weaknesses before they can be exploited. 
+<p align="left">
+I approach systems from an attacker’s perspective and focus on identifying weaknesses before they can be exploited, helping improve overall security posture.
 </p>
 
 
