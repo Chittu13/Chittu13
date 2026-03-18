@@ -4,13 +4,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies+&weight=900&size=27&duration=5004&pause=1015&color=31F725FF&background=060E1A00&vCenter=true&width=439&height=58&lines=Hello%2CThere!!!+%F0%9F%91%8B+;This+is+Mr.NoOne++%3A)..;Nice+to+meet+you+%F0%9F%98%87..." alt="Typing SVG" /></a>
 </h1>
 
-I am Mr.N0On3, a Security Analyst specializing in security testing for web applications, APIs, and networks, with a focus on identifying real-world security vulnerabilities. :lock:
+I am K Shanmukha Srinivasulu Royal, a Security Analyst specializing in security testing for web applications, APIs, and networks, with a focus on identifying real-world security vulnerabilities. :lock:
 
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
   📧 Email: <a href="mailto:shanmukha.s.royal@gmail.com">shanmukha.s.royal@gmail.com</a><br>
-  💼 LinkedIn: <a href="https://linkedin.com/in/shanmukha108">linkedin.com/in/shanmukha108</a>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/shanmukha108">linkedin.com/in/shanmukha108</a>
 </p>
 
 ## :heavy_check_mark: Certifications
