@@ -8,7 +8,7 @@ Hi, I'm <b>K Shanmukha Srinivasulu Royal (Mr.N0On3)</b>, a Security Analyst with
 
 I work on security assessments across web, API, and Network, and also perform source code reviews to identify logic flaws and potential security gaps. Alongside this, I regularly participate in CTFs and security research to sharpen my practical skills and stay updated with modern attack techniques.
 
-I enjoy approaching systems from an attacker’s perspective and aim to help improve security by identifying and understanding weaknesses before they can be exploited. 🔐
+I enjoy approaching systems from an attacker’s perspective and aim to help improve security by identifying and understanding weaknesses before they can be exploited. 
 </p>
 
 
