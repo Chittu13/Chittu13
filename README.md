@@ -19,14 +19,20 @@ I approach systems from an attacker’s perspective and focus on identifying wea
 <h2 align="left">Contact</h2>
 
 <ul>
-  <li><b>📧 Email: </b> <a href="mailto:shanmukha.s.royal@gmail.com">shanmukha.s.royal@gmail.com</a></li>
-  <li><b>💼 LinkedIn: </b> <a href="https://www.linkedin.com/in/shanmukha108">linkedin.com/in/shanmukha108</a></li>
+  <li><b>Email: </b> <a href="mailto:shanmukha.s.royal@gmail.com">shanmukha.s.royal@gmail.com</a></li>
+  <li><b>LinkedIn: </b> <a href="https://www.linkedin.com/in/shanmukha108">linkedin.com/in/shanmukha108</a></li>
 </ul>
 
 ## :heavy_check_mark: Certifications
 
 - Junior Penetration Tester (eJPTv2) :white_check_mark:
 - Web Application Penetration Tester (eWPTv2) :white_check_mark:
+
+
+## CVE & Security Research
+
+- [CVE-2026-35569](https://github.com/Chittu13/cve-research/tree/main/CVE-2026-35569)
+
 
 ## :octocat: Featured Repositories
 ### ⚠️ DISCLAIMER ⚠️
