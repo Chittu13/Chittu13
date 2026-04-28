@@ -32,8 +32,8 @@ I approach systems from an attacker’s perspective and focus on identifying wea
 ## CVE & Security Research
 
 - [**CVE-2026-35569**](https://github.com/Chittu13/cve-research/tree/main/CVE-2026-35569)
-- **CVE-2026-38948** — Reserved (Pending Publication)
-- **CVE-2026-38949** — Reserved (Pending Publication)
+- [**CVE-2026-38948**](https://github.com/Chittu13/cve-research/tree/main/CVE-2026-38948)
+- [**CVE-2026-38949**](https://github.com/Chittu13/cve-research/tree/main/CVE-2026-38949)
 
 
 ## :octocat: Featured Repositories
