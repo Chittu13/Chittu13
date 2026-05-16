@@ -34,8 +34,9 @@ I approach systems from an attacker’s perspective and focus on identifying wea
 - [**CVE-2026-35569**](https://github.com/Chittu13/cve-research/tree/main/CVE-2026-35569)
 - [**CVE-2026-38948**](https://github.com/Chittu13/cve-research/tree/main/CVE-2026-38948)
 - [**CVE-2026-38949**](https://github.com/Chittu13/cve-research/tree/main/CVE-2026-38949)
+- [**CVE-2026-42853**](https://nvd.nist.gov/vuln/detail/CVE-2026-42453)
 - **CVE-2026-39372** - Reserved (Pending Publication)
-- **CVE-2026-42853** - Reserved (Pending Publication)
+
 
 
 
