@@ -31,7 +31,8 @@ I approach systems from an attacker’s perspective and focus on identifying wea
 - [**CVE-2026-38949**](https://github.com/Chittu13/cve-research/tree/main/CVE-2026-38949)
 - [**CVE-2026-42853**](https://nvd.nist.gov/vuln/detail/CVE-2026-42853)
 - [**CVE-2026-39372**](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-7j67-2v6p-275v)
-
+- [**CVE-2026-113665**](https://github.com/advisories/GHSA-vwwx-px9w-crrc)
+- [**CVE-2026-111442**](https://backdropcms.org/security/backdrop-sa-core-2026-007)
 
 
 
